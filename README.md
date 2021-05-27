@@ -5,4 +5,7 @@
 3. [Image segmentation using RCNN](https://github.com/Praj390/Machine_Learning_Deep_Learning/blob/master/image_segmentation.ipynb)
 4. [Deep CGAN MNIST Dataset](https://github.com/Praj390/Machine_Learning_Deep_Learning/blob/master/Deep_Convolutional_Generative_Adversarial_Network.ipynb)
      * ![CGAN output](https://github.com/Praj390/Machine_Learning_Deep_Learning/blob/master/dcgan.gif) 
+5. [Visual object detection](https://github.com/Praj390/Machine_Learning_Deep_Learning/tree/master/FInd_phone)
+6. [Handwritten Digit Recognition](https://github.com/Praj390/Machine_Learning_Deep_Learning/tree/master/Handwritten%20digit%20recognition)
+7. 
 
